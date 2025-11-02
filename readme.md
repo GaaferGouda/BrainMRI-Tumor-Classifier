@@ -69,10 +69,8 @@ streamlit run app.py
 ```
 ## Project Demo
 
-<video width="480" controls>
-  <source src="Project-Demo/Project-Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Project Demo](Project-Demo/Project-Demo.gif)
+
 
 
 ## Usage
