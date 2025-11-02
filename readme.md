@@ -71,7 +71,7 @@ streamlit run app.py
 
 
 
-Project-Demo/Project-Demo.mp4
+[Project-Demo/Project-Demo.mp4](https://github.com/GaaferGouda/BrainMRI-Tumor-Classifier/blob/a5dfc0e9a3d34fa598112729aa930ab0ec2966cb/Project-Demo/Project-Demo.mp4)
 
 
 
