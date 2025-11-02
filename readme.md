@@ -69,9 +69,10 @@ streamlit run app.py
 ```
 ## Project Demo
 
-
-https://github.com/GaaferGouda/BrainMRI-Tumor-Classifier/blob/main/Project-Demo/Project-Demo.mp4
-
+<video width="480" controls>
+  <source src="Project-Demo/Project-Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## Usage
