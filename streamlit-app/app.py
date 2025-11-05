@@ -7,8 +7,6 @@ from PIL import Image
 import tensorflow as tf
 import os
 
-st.set_option('deprecation.showfileUploaderEncoding', False)
-
 # ---------- Load the saved model safely ----------
 MODEL_PATH = 'Brain_Tumor_cnn.h5'
 
